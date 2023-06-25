@@ -1,5 +1,5 @@
 ### Hi there 👋
-![logo]('https://media.licdn.com/dms/image/D4D16AQE9ujaZS8hgQA/profile-displaybackgroundimage-shrink_350_1400/0/1686123133928?e=1693440000&v=beta&t=hAsRXA6lDrfYCu7yIh51n0fe5k1bmYhXNjlYIc1mxag')
+![logo](https://media.licdn.com/dms/image/D4D16AQE9ujaZS8hgQA/profile-displaybackgroundimage-shrink_350_1400/0/1686123133928?e=1693440000&v=beta&t=hAsRXA6lDrfYCu7yIh51n0fe5k1bmYhXNjlYIc1mxag)
 <h1 align="center">Hi 👋, I'm Ankit Maurya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
